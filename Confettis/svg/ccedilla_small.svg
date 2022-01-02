@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 300 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-362,0)">
+        <g id="ccedilla_small" transform="matrix(1,0,0,1,-8640.02,-5564.48)">
+            <path d="M9131.66,6269.11L9137.12,6292.16C9137.12,6292.16 9182.13,6281.62 9180.79,6314.19C9179.45,6346.76 9113.92,6337.18 9113.92,6337.18L9105.91,6382.32C9105.91,6382.32 9258.79,6409.99 9247.2,6319.93C9243.34,6289.9 9236.99,6270.9 9233.37,6261.92C9271.72,6248.96 9298.99,6227.18 9301.23,6213.36L9219.7,6120.2C9219.7,6120.2 9168.59,6134.88 9159.28,6109.76C9148.99,6082.03 9193.42,6070.26 9192.1,6069.47L9193.59,5969.5C9180.83,5967.91 8984.03,5943.88 9004.26,6154.45C9007.37,6186.82 9035.71,6252.34 9131.66,6269.11Z"/>
+        </g>
+    </g>
+</svg>

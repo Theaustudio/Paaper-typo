@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 376 1024" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-324,0)">
+        <g id="currency" transform="matrix(1,0,0,1,-1144.12,-7954.04)">
+            <path d="M1738.92,8381.81L1813.1,8340.79L1842.17,8411.53L1795.68,8437.44C1801.4,8448.36 1805.99,8460.62 1809.32,8474.31C1819.13,8514.64 1812.82,8553.07 1793.58,8583.86L1843.14,8644.09L1788.87,8680.91L1730.21,8637.65C1718.38,8642.85 1705.45,8646.82 1691.54,8649.35C1644.47,8657.93 1603.03,8655.77 1570.5,8637.82L1511.74,8691.57L1469.1,8640.21L1524.92,8592.14C1517.59,8579.51 1511.49,8564.73 1506.76,8547.58C1495.89,8508.19 1500.86,8470.18 1516.57,8438.94L1491.39,8384.4L1542.75,8341.76L1583.83,8373.88C1599.49,8366.85 1616.65,8362.79 1634.68,8362.36C1674.48,8361.44 1710.06,8367.28 1738.92,8381.81Z"/>
+        </g>
+    </g>
+</svg>
